@@ -1,4 +1,4 @@
-# 🏀 NBA Game Outcome Predictor (Advanced Edition)
+# 🏀 NBA Game Outcome Predictor
 
 ## 📌 Script: `nba_predict.py`
 
@@ -52,3 +52,7 @@ The script includes a command-line prediction function:
 
 ```python
 predict_winner(input("\nHome team: "), input("Away team: "))
+
+
+## Bonus Code
+- I added my first Machine Learning project as well.
